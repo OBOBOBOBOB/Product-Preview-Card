@@ -119,3 +119,16 @@ button:active {
   background: hsl(212, 21%, 14%);
 
 }
+
+footer { 
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    padding: 1rem;
+    font-size: 11px; 
+    text-align: center; 
+  }
+  
+  footer a { 
+    color: hsl(228, 45%, 44%); 
+  }
