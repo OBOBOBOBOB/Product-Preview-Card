@@ -109,9 +109,13 @@ svg {
 button:hover {
   /* Pull the button upwards when hovered */
   transform: translateY(-0.33em);
+  background: hsl(212, 21%, 14%);
+
 }
 
 button:active {
   /* Push the button downwards when pressed */
   transform: translateY(0);
+  background: hsl(212, 21%, 14%);
+
 }
